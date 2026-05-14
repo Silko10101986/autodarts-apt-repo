@@ -4,10 +4,10 @@ Architecture: amd64
 Maintainer: Silko10101986 <silkosteiger@icloud.com>
 Depends: curl, pkexec, polkitd, xdg-utils, libxcb-cursor0
 Filename: pool/main/a/autodarts-manager/autodarts-manager_1.0.0_amd64.deb
-Size: 84718220
-MD5sum: 3297d768090bbf5117d15c9cb56c4a41
-SHA1: b6cb82cda199a295f4e4d04e9bd22067db1490b8
-SHA256: 04a276ae48c15cba0c56b8c02327d41c07195de4ae5473b8b61d689bba2b047f
+Size: 66824984
+MD5sum: 99cd27ce22c19ae0457a3ebb55b4f449
+SHA1: 35ee5149a77e32885f6787e1c308a238aa11e8ca
+SHA256: 008164d37768baf4042c7ce198ce0a46b2d7efb70038bf8bcfb28e5fa291489f
 Section: utils
 Priority: optional
 Description: Desktop-Verwaltung für Autodarts
