@@ -1,0 +1,21 @@
+Package: autodarts-manager
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Silko10101986 <silkosteiger@icloud.com>
+Depends: curl, policykit-1, xdg-utils, libxcb-cursor0
+Filename: pool/main/a/autodarts-manager/autodarts-manager_1.0.0_amd64.deb
+Size: 84718212
+MD5sum: cfa5538f1aa6919b5fff7ef0dafa3f69
+SHA1: 623389e6b4e6341ec6be447a457cde61a6a171ac
+SHA256: 914e2fe71a8a9404e6dd4d3fb2ebbf3a6a4e1878e4759990078d29602be1f67c
+Section: utils
+Priority: optional
+Description: Desktop-Verwaltung für Autodarts
+ Ein grafischer Linux-Manager für Autodarts.
+ .
+ Funktionen:
+  - Autodarts installieren und updaten
+  - Dienst starten, stoppen und neustarten
+  - Autostart aktivieren und deaktivieren
+  - Live-Logs anzeigen
+

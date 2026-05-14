@@ -1,0 +1,8 @@
+Origin: Autodarts Manager
+Label: Autodarts Manager Repository
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64
+Components: main
+Description: APT repository for Autodarts Manager
