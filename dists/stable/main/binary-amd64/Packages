@@ -2,12 +2,12 @@ Package: autodarts-manager
 Version: 1.0.0
 Architecture: amd64
 Maintainer: Silko10101986 <silkosteiger@icloud.com>
-Depends: curl, policykit-1, xdg-utils, libxcb-cursor0
+Depends: curl, pkexec, polkitd, xdg-utils, libxcb-cursor0
 Filename: pool/main/a/autodarts-manager/autodarts-manager_1.0.0_amd64.deb
-Size: 84718212
-MD5sum: cfa5538f1aa6919b5fff7ef0dafa3f69
-SHA1: 623389e6b4e6341ec6be447a457cde61a6a171ac
-SHA256: 914e2fe71a8a9404e6dd4d3fb2ebbf3a6a4e1878e4759990078d29602be1f67c
+Size: 84718220
+MD5sum: 3297d768090bbf5117d15c9cb56c4a41
+SHA1: b6cb82cda199a295f4e4d04e9bd22067db1490b8
+SHA256: 04a276ae48c15cba0c56b8c02327d41c07195de4ae5473b8b61d689bba2b047f
 Section: utils
 Priority: optional
 Description: Desktop-Verwaltung für Autodarts
